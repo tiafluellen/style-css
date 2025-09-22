@@ -1,0 +1,44 @@
+/* Tag-based selectors */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* Classes */
+.title {
+  color: darkblue;
+}
+
+.box {
+  background-color: lightblue;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* IDs */
+#main-header {
+  background-color: #ddd;
+  padding: 20px;
+  text-align: center;
+}
+
+#main-footer {
+  background-color: #bbb;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Flexbox */
+.flex-container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+}
