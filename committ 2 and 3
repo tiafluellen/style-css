@@ -1,0 +1,6 @@
+git add .
+git commit -m "Added class and ID selectors"
+
+# Change layout (e.g. Flexbox), then:
+git add .
+git commit -m "Added Flexbox layout to index.html"
