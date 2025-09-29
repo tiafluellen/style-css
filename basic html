@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<h1>My Educational Website</h1>
+<h2>Courses</h2>
+<h3>HTML Basics</h3>
   <meta charset="UTF-8" />
   <title>Home</title>
   <link rel="stylesheet" href="css/style.css" />
