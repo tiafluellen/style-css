@@ -66,3 +66,15 @@ body {
   }
 }
 
+/* Old CSS you can remove or comment out */
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+/* Keep this — unique styling */
+header {
+  background-color: #3c3c3c;
+  color: white;
+  padding: 20px;
+}
