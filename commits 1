@@ -1,3 +1,8 @@
 git init
 git add .
 git commit -m "Initial commit: HTML and CSS files added"
+git add .
+git commit -m "Added Bootstrap CDN link to HTML files"
+git commit -m "Updated layout with Bootstrap grid and buttons"
+git commit -m "Cleaned up old CSS and added custom styles"
+git push
